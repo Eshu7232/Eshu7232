@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Eshu7232
-- 👀 I’m interested in data analyst
-- 🌱 I’m currently learning sql
-- 💞️ I’m looking to collaborate on companies for job purpose
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Eswaramma Sagila 👋
+
+🎯 **Aspiring Data Analyst** | Power BI • Excel • SQL • DAX  
+📊 Passionate about transforming data into meaningful insights  
+
+## 🔧 Tools & Technologies
+- **Data Visualization:** Power BI, Excel
+- **Languages:** SQL, Python (Basics)
+- **Databases:** PostgreSQL
+- **Others:** Power Query, DAX, Power Platform.
 
 <!---
 Eshu7232/Eshu7232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
