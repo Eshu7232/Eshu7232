@@ -1,11 +1,11 @@
 # Hi there, I'm Eswaramma Sagila 👋
 
-🎯 **Aspiring Data Analyst** | Power BI • Excel • SQL • DAX  
+🎯 **Aspiring Data Analyst** | Power BI • Excel • SQL • DAX  •Python 
 📊 Passionate about transforming data into meaningful insights  
 
 ## 🔧 Tools & Technologies
 - **Data Visualization:** Power BI, Excel
-- **Languages:** SQL, Python (Basics)
+- **Languages:** SQL, Python (Pandas,Numpy)
 - **Databases:** PostgreSQL
 - **Others:** Power Query, DAX, Power Platform.
 
