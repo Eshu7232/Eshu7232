@@ -5,7 +5,7 @@
 
 ## 🔧 Tools & Technologies
 - **Data Visualization:** Power BI, Excel
-- **Languages:** SQL, Python (Pandas,Numpy)
+- **Languages:** SQL, Python (Pandas,Numpy,Matplot lib,Seabron)
 - **Databases:** PostgreSQL
 - **Others:** Power Query, DAX, Power Platform.
 
